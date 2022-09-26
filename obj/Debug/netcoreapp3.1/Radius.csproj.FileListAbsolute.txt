@@ -1,0 +1,13 @@
+/Users/Jake/Projects/Radius/bin/Debug/netcoreapp3.1/Radius.deps.json
+/Users/Jake/Projects/Radius/bin/Debug/netcoreapp3.1/Radius.runtimeconfig.json
+/Users/Jake/Projects/Radius/bin/Debug/netcoreapp3.1/Radius.runtimeconfig.dev.json
+/Users/Jake/Projects/Radius/bin/Debug/netcoreapp3.1/Radius.dll
+/Users/Jake/Projects/Radius/bin/Debug/netcoreapp3.1/Radius.pdb
+/Users/Jake/Projects/Radius/obj/Debug/netcoreapp3.1/Radius.csproj.AssemblyReference.cache
+/Users/Jake/Projects/Radius/obj/Debug/netcoreapp3.1/Radius.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jake/Projects/Radius/obj/Debug/netcoreapp3.1/Radius.AssemblyInfoInputs.cache
+/Users/Jake/Projects/Radius/obj/Debug/netcoreapp3.1/Radius.AssemblyInfo.cs
+/Users/Jake/Projects/Radius/obj/Debug/netcoreapp3.1/Radius.csproj.CoreCompileInputs.cache
+/Users/Jake/Projects/Radius/obj/Debug/netcoreapp3.1/Radius.dll
+/Users/Jake/Projects/Radius/obj/Debug/netcoreapp3.1/Radius.pdb
+/Users/Jake/Projects/Radius/obj/Debug/netcoreapp3.1/Radius.genruntimeconfig.cache
